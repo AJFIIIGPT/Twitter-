@@ -1,0 +1,6 @@
+# manual mode input format:
+# 2026-05-02T13:15:00Z|username|tweet text here
+2026-05-02T10:15:00Z|finfluencer1|$NVDA breakout setup because AI demand keeps accelerating into earnings.
+2026-05-02T09:10:00Z|tradertom|RT @someone: $TSLA to the moon
+2026-05-01T07:00:00Z|macrogal|Election risk is rising and markets hate uncertainty.
+2026-05-02T08:00:00Z|alphaedge|Watching $TSLA and $NVDA; valuation rich but guidance could surprise.

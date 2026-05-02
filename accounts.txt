@@ -1,0 +1,4 @@
+# Add one account per line (with or without @)
+# example:
+# traderjoex
+# thechartlife
